@@ -113,7 +113,7 @@ const ValentineQuestion: React.FC = () => {
                 padding: '0 20px',
                 lineHeight: '1.2'
             }}>
-                Will you be my Valentine? 🥺
+                Will you be my Valentine Sukshhhhhhhh? 🥺
             </h1>
 
             <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
